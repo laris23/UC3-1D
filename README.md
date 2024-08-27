@@ -9,7 +9,7 @@ javascript
 github
 code pen
 ```js
--if
+- IF AND ELSE 
 const nome = prompt("qual seu nome?")
 const lanche = prompt("diga seu lanche")
 
