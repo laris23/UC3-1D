@@ -5,7 +5,10 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 ## Conteúdo Técnico
 Escreva aqui os conteúdos aprendidos.
 
-- javascript
+- javascript:
+String: sequências de caracteres alfanuméricos.
+Number: converte um valor em um número.
+Boolean: é um tipo de dado lógico que pode ter apenas um de dois valores possíveis: verdadeiro ou falso.
 - github
 - code pen
 
