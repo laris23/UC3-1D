@@ -64,7 +64,7 @@ console.log(livros);
 console.log(livros.sort());
 console.log(livros.length);
 
-- ARRAY P2
+### - ARRAY P2
 //Array
 const frutas = ["laranja","maçã"]
 
@@ -81,5 +81,52 @@ console.log(frutas);
 
 console.log(frutas.sort());
 console.log(frutas.length);
+
+- TREINAMENTO
+
+const alycia= ['linda', 'maravilhosa', 'namorada']
+console.log(alycia) // [1,2,3]
+
+alycia.push("mulher")
+console.log(alycia) // [1,2,3,4,5]
+
+const jogos = ["roblox", "free fire", "candy crush", "talking tom"]
+console.log(jogos) // ["roblox", "free fire", "candy crush", "talking tom"]
+
+jogos.pop()
+console.log(jogos) // ["roblox, "free fire"]
+
+const filme = ["mãos talentolas", "mãos talentolas", "gente grande", "tom e jerry"]
+console.log(filme) // ["mãos talentolas", "gente grande", "tom e jerry"]
+
+filme.shift()
+console.log(filme) // ["mãos talentolas", "gente grande"]
+
+
+const nome = ["luis", "gilson", "frankie", "renato", "thais carla"]
+console.log(nome) // [frankie", "renato", "thais carla"]
+
+nome.unshift("gordo", "bob cosntrutor")
+console.log(nome) // ["luis", "gilson", "frankie", "renato", "thais carla"]
+
+
+const amigos = ["douglas", "joão", "lucas", "rafael", "caio", "gabriel", "igor"]
+const newArray = amigos.concat(["rafael", "caio"])
+
+console.log(amigos) // ["douglas", "joão", "lucas"]
+console.log(newArray) // ["douglas", "joão", "lucas", "rafael", "caio", "sabrina", "gabriel", "igor"] 
+
+const grupo = ["A", "D", "L", "R"]
+const string = grupo.join("-")
+
+console.log(grupo) 
+console.log(string)  
+
+//Exemplo 1 
+const casal =["luis e frankie amores para sempre ❤️👨‍❤️‍👨"]
+
+
+
+console.log(casal)
 
 ```
