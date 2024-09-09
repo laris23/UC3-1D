@@ -64,7 +64,7 @@ console.log(livros);
 console.log(livros.sort());
 console.log(livros.length);
 
-### - ARRAY P2
+- ARRAY P2
 //Array
 const frutas = ["laranja","maçã"]
 
